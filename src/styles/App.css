@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+body {
+  background: linear-gradient(to bottom, #6d28d9, #1e40af);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: 'Arial', sans-serif;
+}
